@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PDF Simple",
+    "slug": "pdf-simple",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.pdfsimple"
+    },
+    "android": {
+      "package": "com.example.pdfsimple"
+    },
+    "plugins": ["expo-document-picker"]
+  }
+}
